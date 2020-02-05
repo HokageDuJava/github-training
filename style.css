@@ -5,5 +5,9 @@ h1 {
   text-align: center;
   font-size: 2em;
   font-family: Arial, "Helvetica", serif;
+<<<<<<< HEAD
   margin: 20px;
+=======
+  padding: 30px;
+>>>>>>> feature/conflict
 }
